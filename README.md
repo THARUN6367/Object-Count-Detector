@@ -1,2 +1,2 @@
 # Object-Count-Detector
-In this project the program will find the number of products in the given image
+The **Object Count Detector** is a real-time object detection system that utilizes OpenCV and deep learning to accurately identify and count objects in images and video streams. Designed for efficiency, it enhances detection speed while minimizing false positives. Built using Python, OpenCV, and TensorFlow/Keras, this project ensures high accuracy and scalability. Future improvements include deploying the model on edge devices and expanding support for multi-class object detection.
